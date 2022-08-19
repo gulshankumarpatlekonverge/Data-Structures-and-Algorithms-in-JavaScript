@@ -39,3 +39,12 @@ A tree data structure is a way to hold data that when visuaized looks like a tre
     2. preOrder - root => left => right
     3. postOrder - left => right => root
     4. levelOrder(BFS)
+
+# Hash Table
+
+Hash Table is used to implement associative array or mapping of key value pair. Hash Table is common way to implement the map data structure or objects.
+
+
+# Reference Links
+
+    YouTube : https://www.youtube.com/watch?v=t2CEgPsws3U
