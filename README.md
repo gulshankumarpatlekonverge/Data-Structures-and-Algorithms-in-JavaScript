@@ -22,6 +22,14 @@ The queue data structure is a way to hold data, it's similar to a stack while a 
 
 Priority queue in a priority queue  not only do you pass the element into the queue youa also pass the priority of the element so if all the priorities are the same element but whwn you pass in elements at different priorities the elements that sre passed in with the a higher priority are sent to the begining of the queue.
 
+# Binary Search Tree
 
+A tree data structure is a way to hold data that when visuaized looks like a tree you would see in nature now.
 
+    Root/Parent
+    Left Child/ Right Child
+    Siblings
+    Leaf
+    Right SubTree
+    Left SubTree
 
