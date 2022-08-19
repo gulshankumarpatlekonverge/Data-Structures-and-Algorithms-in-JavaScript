@@ -33,3 +33,9 @@ A tree data structure is a way to hold data that when visuaized looks like a tre
     Right SubTree
     Left SubTree
 
+# Binary Search Tree Traversal 
+
+    1. inOrder - left => root => right
+    2. preOrder - root => left => right
+    3. postOrder - left => right => root
+    4. levelOrder(BFS)
