@@ -44,6 +44,9 @@ A tree data structure is a way to hold data that when visuaized looks like a tre
 
 Hash Table is used to implement associative array or mapping of key value pair. Hash Table is common way to implement the map data structure or objects.
 
+# Linked List
+
+A linked list is a common data structure where elements are stored in a node, the node conatains two key pieces of information the element itself and reference to the next node.
 
 # Reference Links
 
