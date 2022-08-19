@@ -48,6 +48,9 @@ Hash Table is used to implement associative array or mapping of key value pair. 
 
 A linked list is a common data structure where elements are stored in a node, the node conatains two key pieces of information the element itself and reference to the next node.
 
+# Trie Data Structure
+A trie sometimes called a prefix tree is a special type of tree used to store associative data structure a trie stores data in steps each step is a node in the trie this is often used to store worda since there are a finite number of letters that can be put together to make a string.
+
 # Reference Links
 
     YouTube : https://www.youtube.com/watch?v=t2CEgPsws3U
