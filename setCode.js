@@ -5,7 +5,7 @@ function mySet(){
     let collection = [];
 
     //this method will check for the preence of an element and return TRUE OR FALSE
-    this.has() = function(element){
+    this.has = function(element){
         return (collection.indexOf(element) !== -1);
     }
 
@@ -17,7 +17,7 @@ function mySet(){
     // this method will add an element to the set
     this.add = function(element){
         if(!this.has(element)){
-            collection.posh(element);
+            collection.push(element);
             return true;
         }
         return false;
