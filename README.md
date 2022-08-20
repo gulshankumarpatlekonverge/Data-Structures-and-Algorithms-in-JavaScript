@@ -55,6 +55,38 @@ A trie sometimes called a prefix tree is a special type of tree used to store as
 
 Binary Heap is a partially ordered binary tree which satisfies the heap property. It has some similarities to a binary search tree except the order is a little difference. Each node has at most two child nodes. The heap indicates a specific relationship between the parent and child nodes.
 
+# Graph
+
+The graph data structure is not same as graph you may learned about a math class. Graph is acollection of thimgs and relationships or collections between them data in a graph are called Nodes Or Vertices. The connection between the nodes are called edges
+
+    Types:
+    1. Directed Graph
+        Directed graphs are graphs with a direction and its edges.
+
+    2. Undirected Graph
+        Undirected graphs are graphs without any direction on the edges between nodes.
+
+    Three ways to reoresent a Graph:
+        1.  Adjacency List
+            Adjacency List is representation of Graph associates each vertex in the graph with the collection of its neighboring vartices or edges.
+
+            This is undirected graph because it doesn't show the direction of the edges.
+        
+        2. Adjacency Matrix
+           Adjacency Matrix is a  two-dimensional array where each nested array has the same number of elements as the outer array so it's basically a matrix of number where number represent the edges. 
+
+           Zero's means there is no edges or relationship and one's means there is a relationship. 
+
+           Adjacency Matrix can be used to represent a Directed Graph.
+        
+        3. Incidence Matrix
+           Like the Adjacency Matrix an Incidence Matrix two-dimensional array, however the rows and and columns means something else here, the Adjecency Matrix use both reows and columns to represent nodes and Incidence Matrixuses reoas rose to represent nodes in the columns to represent edges. This means that we can have uneven number of rows and columns. Each column will represent a unique edge. Also, each edge connects two nodes to show that there is edge between two nodes. 
+
+# Graphs - Breadth-First Search and Depth-First Search 
+
+
+
+
 # Reference Links
 
     YouTube : https://www.youtube.com/watch?v=t2CEgPsws3U
