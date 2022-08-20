@@ -51,6 +51,10 @@ A linked list is a common data structure where elements are stored in a node, th
 # Trie Data Structure
 A trie sometimes called a prefix tree is a special type of tree used to store associative data structure a trie stores data in steps each step is a node in the trie this is often used to store worda since there are a finite number of letters that can be put together to make a string.
 
+# Heap
+
+Binary Heap is a partially ordered binary tree which satisfies the heap property. It has some similarities to a binary search tree except the order is a little difference. Each node has at most two child nodes. The heap indicates a specific relationship between the parent and child nodes.
+
 # Reference Links
 
     YouTube : https://www.youtube.com/watch?v=t2CEgPsws3U
